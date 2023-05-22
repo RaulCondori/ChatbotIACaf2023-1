@@ -1,0 +1,49 @@
+
+.p-80 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.box {
+  width: 100%;
+  float: none;
+}
+
+#header-top {
+  height: 100%;
+}
+#navbar {
+  text-align: center;
+}
+
+#navbar .logo {
+  float: none;
+}
+
+#navbar ul {
+  float: none;
+  display: block;
+}
+
+#navbar ul li {
+  float: none;
+  padding:10px;
+}
+
+#navbar ul li:nth-child(4) {
+  display: none;
+}
+
+#showcase {
+  padding: 40px;
+}
+
+#contact input,
+#contact textarea
+ {
+   width: 100%;
+ }
+
+ #mainfooter {
+   text-align: center;
+ }
