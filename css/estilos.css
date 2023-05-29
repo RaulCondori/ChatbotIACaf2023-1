@@ -6,6 +6,7 @@
 
   body,
   html {
+    position: relative;
     font-family: 'Montserrat', sans-serif;
     color: #4d4d4d;
   }
